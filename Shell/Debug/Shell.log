@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\c++\shell\shell\main.cpp(164): warning C4018: '<': signed/unsigned mismatch
+e:\c++\shell\shell\main.cpp(185): warning C4018: '<': signed/unsigned mismatch
+e:\c++\shell\shell\main.cpp(286): warning C4018: '<': signed/unsigned mismatch
+e:\c++\shell\shell\main.cpp(294): warning C4018: '<': signed/unsigned mismatch
+e:\c++\shell\shell\main.cpp(448): warning C4244: 'argument': conversion from 'WCHAR' to 'char', possible loss of data
+  Shell.vcxproj -> E:\C++\Shell\Debug\Shell.exe
+  Shell.vcxproj -> E:\C++\Shell\Debug\Shell.pdb (Partial PDB)
